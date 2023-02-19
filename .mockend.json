@@ -1,0 +1,21 @@
+{
+  "DMOinfo": {
+   "licenceNumber": {
+      "string": {}
+    },
+    "aadhar": {
+      "int": {
+        "min": 15000000,
+        "max": 25000000
+      }
+    },
+    "pan": {
+     "string": {}
+    },
+    "chassisNumber": {
+      "int": {
+        "min": 2100458,
+        "max": 3100458
+      }
+  }
+}
