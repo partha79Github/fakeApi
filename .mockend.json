@@ -1,6 +1,6 @@
 {
   "DMOinfo": {
-   "int": {
+   "licenceNumber": {
         "min":256984154,
         "max":692215483
       }
@@ -10,7 +10,7 @@
         "max": 25000000
       }
     },
-    "pan": {
+    "panNumber": {
      "string": {}
     },
     "chassisNumber": {
