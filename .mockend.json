@@ -1,11 +1,11 @@
 {
   "DMOinfo": {
-    "licenceNumber":{
-   "int": {
-        "min":256984154,
-        "max":692215483
+    "licenceNumber": {
+      "int": {
+        "min": 7456321485,
+        "max": 9752369851
       }
-  },
+    },
     "aadhar": {
       "int": {
         "min": 15000000,
